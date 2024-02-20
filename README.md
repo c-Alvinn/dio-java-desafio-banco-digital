@@ -51,8 +51,8 @@
 
 ### 🎥 Vídeo Mostrando o Funcionamento do Sistema
 
- <video width="320" height="240" controls muted>
-    <source src = "readme_assets/gravacao.webm" type="video/webm">
+ <video controls muted>
+    <source src = "readme_assets/gravacao.mp4" type="video/mp4">
  </video>
 
 ### 📲 Como clonar este projeto
