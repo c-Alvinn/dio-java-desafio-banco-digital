@@ -51,9 +51,7 @@
 
 ### 🎥 Vídeo Mostrando o Funcionamento do Sistema
 
- <video controls muted>
-    <source src = "readme_assets/gravacao.mp4" type="video/mp4">
- </video>
+https://github.com/c-Alvinn/dio-java-desafio-banco-digital/assets/141906500/4c19eb74-bec5-4f2c-b132-b7f00a11dcba
 
 ### 📲 Como clonar este projeto
 
